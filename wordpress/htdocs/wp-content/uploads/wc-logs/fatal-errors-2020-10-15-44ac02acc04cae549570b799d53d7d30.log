@@ -1,0 +1,26 @@
+2020-10-15T02:35:47+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:35:48+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:35:48+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:35+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:37+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:37+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:45+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:47+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:37:47+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 26
+
+2020-10-15T02:39:45+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 27
+
+2020-10-15T02:39:47+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 27
+
+2020-10-15T02:39:47+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-content\plugins\contact\thongtinlienhe.php on line 27
+
+2020-10-15T03:55:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-includes\wp-db.php on line 2033
+

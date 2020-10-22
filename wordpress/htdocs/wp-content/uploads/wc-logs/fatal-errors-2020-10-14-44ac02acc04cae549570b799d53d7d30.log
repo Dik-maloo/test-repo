@@ -1,0 +1,2 @@
+2020-10-14T05:42:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs\wp-includes\wp-db.php on line 2033
+

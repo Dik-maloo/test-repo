@@ -1,0 +1,375 @@
+0000.001 (0) Opened log file at time: Mon, 19 Oct 2020 07:36:16 +0000 on http://localhost/wordpress
+0000.211 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.30 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Windows NT TMA_SDC_QN 10.0 build 16299 (Windows 10) AMD64) MySQL: 8.0.21 WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 23.8M | 14M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.393 (0) Free space on disk containing Updraft's temporary directory: 147463 MB
+0000.647 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0001.289 (0) Semaphore (fd, wp_options) being initialised
+0001.710 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0002.214 (0) Set semaphore last lock (fd) time to 2020-10-19 07:36:18
+0002.376 (0) Semaphore lock (fd) complete
+0002.714 (0) Backup run: resumption=0, nonce=727f25706315, file_nonce=727f25706315 begun at=1603092976 (2s ago), job type=backup
+0002.966 (0) Scheduling a resumption (1) after 300 seconds (1603093278) in case this run gets aborted
+0003.228 (0) Checking if we have a zip executable available
+0003.521 (0) Creation of backups of directories: beginning
+0003.892 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0023.136 (0) Total entities for the zip file: 1967 directories, 10618 files (0 skipped as non-modified), 144.5 MB
+0023.393 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0025.671 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 100 files added (on-disk size: 353.9 KB)
+0027.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 146 (147) files added so far); re-opening (prior size: 353.9 KB)
+0028.742 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 200 files added (on-disk size: 1099.9 KB)
+0030.109 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 104 (251) files added so far); re-opening (prior size: 1099.9 KB)
+0032.032 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 300 files added (on-disk size: 1753.6 KB)
+0032.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 92 (343) files added so far); re-opening (prior size: 1753.6 KB)
+0034.680 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 400 files added (on-disk size: 1960 KB)
+0036.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 104 (447) files added so far); re-opening (prior size: 1960 KB)
+0037.856 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 500 files added (on-disk size: 2108.8 KB)
+0038.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 104 (551) files added so far); re-opening (prior size: 2108.8 KB)
+0040.335 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 600 files added (on-disk size: 3018.5 KB)
+0041.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 135 (686) files added so far); re-opening (prior size: 3018.5 KB)
+0042.715 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 700 files added (on-disk size: 3420.3 KB)
+0044.425 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 800 files added (on-disk size: 3420.3 KB)
+0044.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 164 (850) files added so far); re-opening (prior size: 3420.3 KB)
+0046.148 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 900 files added (on-disk size: 3655 KB)
+0047.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 106 (956) files added so far); re-opening (prior size: 3655 KB)
+0050.806 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1000 files added (on-disk size: 4514.5 KB)
+0051.029 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.6 MB, 45 (1001) files added so far); re-opening (prior size: 4514.5 KB)
+0053.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 49 (1050) files added so far); re-opening (prior size: 5791.5 KB)
+0056.912 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1100 files added (on-disk size: 7648.1 KB)
+0057.149 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 51 (1101) files added so far); re-opening (prior size: 7648.1 KB)
+0058.829 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1200 files added (on-disk size: 8544.4 KB)
+0059.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 168 (1269) files added so far); re-opening (prior size: 8544.4 KB)
+0061.169 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1300 files added (on-disk size: 8782 KB)
+0062.889 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1400 files added (on-disk size: 8782 KB)
+0063.069 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 132 (1401) files added so far); re-opening (prior size: 8782 KB)
+0065.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 78 (1479) files added so far); re-opening (prior size: 9077.2 KB)
+0067.501 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1500 files added (on-disk size: 10095.6 KB)
+0068.757 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1600 files added (on-disk size: 10095.6 KB)
+0069.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 172 (1651) files added so far); re-opening (prior size: 10095.6 KB)
+0071.173 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1700 files added (on-disk size: 10393.4 KB)
+0072.757 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1800 files added (on-disk size: 10393.4 KB)
+0072.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 177 (1828) files added so far); re-opening (prior size: 10393.4 KB)
+0075.279 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 1900 files added (on-disk size: 10687.4 KB)
+0076.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 102 (1930) files added so far); re-opening (prior size: 10687.4 KB)
+0077.950 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2000 files added (on-disk size: 10882.8 KB)
+0078.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 104 (2034) files added so far); re-opening (prior size: 10882.8 KB)
+0081.891 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2100 files added (on-disk size: 11495.7 KB)
+0082.303 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 67 (2101) files added so far); re-opening (prior size: 11495.7 KB)
+0084.678 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2200 files added (on-disk size: 12645.1 KB)
+0085.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.1 MB, 152 (2253) files added so far); re-opening (prior size: 12645.1 KB)
+0087.600 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2300 files added (on-disk size: 13654.7 KB)
+0088.951 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2400 files added (on-disk size: 13654.7 KB)
+0089.114 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 148 (2401) files added so far); re-opening (prior size: 13654.7 KB)
+0091.519 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2500 files added (on-disk size: 14108.9 KB)
+0091.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 127 (2528) files added so far); re-opening (prior size: 14108.9 KB)
+0094.411 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2600 files added (on-disk size: 14386.3 KB)
+0095.003 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 91 (2619) files added so far); re-opening (prior size: 14386.3 KB)
+0097.289 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2700 files added (on-disk size: 14688 KB)
+0097.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 109 (2728) files added so far); re-opening (prior size: 14688 KB)
+0100.228 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2800 files added (on-disk size: 14982.8 KB)
+0100.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 133 (2861) files added so far); re-opening (prior size: 14982.8 KB)
+0102.954 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 2900 files added (on-disk size: 15269.8 KB)
+0104.002 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 71 (2932) files added so far); re-opening (prior size: 15269.8 KB)
+0105.887 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3000 files added (on-disk size: 15432.6 KB)
+0107.008 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 115 (3047) files added so far); re-opening (prior size: 15432.6 KB)
+0109.330 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3100 files added (on-disk size: 15656.5 KB)
+0109.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 82 (3129) files added so far); re-opening (prior size: 15656.5 KB)
+0112.368 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3200 files added (on-disk size: 15784.5 KB)
+0113.061 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 103 (3232) files added so far); re-opening (prior size: 15784.5 KB)
+0115.191 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3300 files added (on-disk size: 15981.5 KB)
+0116.009 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 92 (3324) files added so far); re-opening (prior size: 15981.5 KB)
+0118.642 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3400 files added (on-disk size: 16250.8 KB)
+0118.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 90 (3414) files added so far); re-opening (prior size: 16250.8 KB)
+0121.866 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3500 files added (on-disk size: 17673.8 KB)
+0122.151 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 87 (3501) files added so far); re-opening (prior size: 17673.8 KB)
+0124.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 47 (3548) files added so far); re-opening (prior size: 18735 KB)
+0128.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 28 (3576) files added so far); re-opening (prior size: 19365.2 KB)
+0129.417 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3600 files added (on-disk size: 19488.7 KB)
+0130.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 93 (3669) files added so far); re-opening (prior size: 19488.7 KB)
+0132.175 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3700 files added (on-disk size: 19828 KB)
+0134.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 119 (3788) files added so far); re-opening (prior size: 19828 KB)
+0135.642 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3800 files added (on-disk size: 20167.9 KB)
+0137.855 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 3900 files added (on-disk size: 20167.9 KB)
+0138.167 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 113 (3901) files added so far); re-opening (prior size: 20167.9 KB)
+0140.045 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4000 files added (on-disk size: 20620.6 KB)
+0140.458 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4100 files added (on-disk size: 20620.6 KB)
+0140.746 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4200 files added (on-disk size: 20620.6 KB)
+0141.086 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4300 files added (on-disk size: 20620.6 KB)
+0141.316 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4400 files added (on-disk size: 20620.6 KB)
+0141.440 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (21.5 MB, 10618 files batched, 501 (4402) added so far); re-opening (prior size: 20620.6 KB)
+0144.739 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4500 files added (on-disk size: 26621.8 KB)
+0145.035 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4600 files added (on-disk size: 26621.8 KB)
+0145.282 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4700 files added (on-disk size: 26621.8 KB)
+0145.690 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4800 files added (on-disk size: 26621.8 KB)
+0146.006 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 4900 files added (on-disk size: 26621.8 KB)
+0146.187 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 10618 files batched, 501 (4903) added so far); re-opening (prior size: 26621.8 KB)
+0147.583 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5000 files added (on-disk size: 27317.7 KB)
+0147.982 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5100 files added (on-disk size: 27317.7 KB)
+0148.182 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5200 files added (on-disk size: 27317.7 KB)
+0148.771 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5300 files added (on-disk size: 27317.7 KB)
+0149.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 480 (5383) files added so far); re-opening (prior size: 27317.7 KB)
+0153.602 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5400 files added (on-disk size: 28888.4 KB)
+0154.031 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 21 (5404) files added so far); re-opening (prior size: 28888.4 KB)
+0158.042 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 7 (5411) files added so far); re-opening (prior size: 29049.2 KB)
+0161.959 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 10 (5421) files added so far); re-opening (prior size: 29057.7 KB)
+0165.213 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5500 files added (on-disk size: 29123.1 KB)
+0165.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 117 (5538) files added so far); re-opening (prior size: 29123.1 KB)
+0168.847 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5600 files added (on-disk size: 29987.7 KB)
+0169.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 121 (5659) files added so far); re-opening (prior size: 29987.7 KB)
+0173.023 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 6 (5665) files added so far); re-opening (prior size: 30338.6 KB)
+0176.813 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5700 files added (on-disk size: 30444.4 KB)
+0177.010 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 48 (5713) files added so far); re-opening (prior size: 30444.4 KB)
+0180.012 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 84 (5797) files added so far); re-opening (prior size: 30887 KB)
+0182.857 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5800 files added (on-disk size: 31084.8 KB)
+0184.507 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 5900 files added (on-disk size: 31084.8 KB)
+0185.008 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 149 (5946) files added so far); re-opening (prior size: 31084.8 KB)
+0187.299 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6000 files added (on-disk size: 31504.3 KB)
+0188.712 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 55 (6001) files added so far); re-opening (prior size: 31504.3 KB)
+0191.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 60 (6061) files added so far); re-opening (prior size: 31662 KB)
+0194.420 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6100 files added (on-disk size: 31825.3 KB)
+0194.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 64 (6125) files added so far); re-opening (prior size: 31825.3 KB)
+0197.872 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6200 files added (on-disk size: 32047.7 KB)
+0198.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 122 (6247) files added so far); re-opening (prior size: 32047.7 KB)
+0201.584 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6300 files added (on-disk size: 32322.2 KB)
+0203.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 119 (6366) files added so far); re-opening (prior size: 32322.2 KB)
+0207.102 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 24 (6390) files added so far); re-opening (prior size: 32691.9 KB)
+0210.634 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6400 files added (on-disk size: 32787.2 KB)
+0211.060 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 12 (6402) files added so far); re-opening (prior size: 32787.2 KB)
+0215.006 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 40 (6442) files added so far); re-opening (prior size: 32855 KB)
+0219.634 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6500 files added (on-disk size: 33556.6 KB)
+0219.991 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 59 (6501) files added so far); re-opening (prior size: 33556.6 KB)
+0224.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 46 (6547) files added so far); re-opening (prior size: 34152.1 KB)
+0226.983 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6600 files added (on-disk size: 34261.6 KB)
+0228.027 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 85 (6632) files added so far); re-opening (prior size: 34261.6 KB)
+0233.042 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 37 (6669) files added so far); re-opening (prior size: 34433.6 KB)
+0235.847 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6700 files added (on-disk size: 34475.2 KB)
+0236.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 33 (6702) files added so far); re-opening (prior size: 34475.2 KB)
+0239.997 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 64 (6766) files added so far); re-opening (prior size: 34516.8 KB)
+0242.664 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6800 files added (on-disk size: 34563.3 KB)
+0244.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 47 (6813) files added so far); re-opening (prior size: 34563.3 KB)
+0246.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 39 (6852) files added so far); re-opening (prior size: 34593.6 KB)
+0249.489 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 6900 files added (on-disk size: 35014.4 KB)
+0250.840 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7000 files added (on-disk size: 35014.4 KB)
+0250.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 149 (7001) files added so far); re-opening (prior size: 35014.4 KB)
+0254.050 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7100 files added (on-disk size: 35120.2 KB)
+0254.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 164 (7165) files added so far); re-opening (prior size: 35120.2 KB)
+0256.859 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7200 files added (on-disk size: 35262.8 KB)
+0257.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 108 (7273) files added so far); re-opening (prior size: 35262.8 KB)
+0258.874 (0) The scheduled resumption is within 45 seconds - will reschedule
+0259.108 (0) Rescheduling resumption 1: moving to 345 seconds from now (1603093580)
+0259.430 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0261.639 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7300 files added (on-disk size: 35368.8 KB)
+0261.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 41 (7314) files added so far); re-opening (prior size: 35368.8 KB)
+0264.656 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7400 files added (on-disk size: 35411.9 KB)
+0265.978 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7500 files added (on-disk size: 35411.9 KB)
+0266.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 187 (7501) files added so far); re-opening (prior size: 35411.9 KB)
+0268.873 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7600 files added (on-disk size: 35606.2 KB)
+0269.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 172 (7673) files added so far); re-opening (prior size: 35606.2 KB)
+0271.596 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7700 files added (on-disk size: 35858.5 KB)
+0274.031 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.6 MB, 74 (7747) files added so far); re-opening (prior size: 35858.5 KB)
+0277.151 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7800 files added (on-disk size: 36814.8 KB)
+0278.008 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 102 (7849) files added so far); re-opening (prior size: 36814.8 KB)
+0280.030 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 7900 files added (on-disk size: 36970.3 KB)
+0280.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 111 (7960) files added so far); re-opening (prior size: 36970.3 KB)
+0283.682 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8000 files added (on-disk size: 37085.3 KB)
+0283.991 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 47 (8007) files added so far); re-opening (prior size: 37085.3 KB)
+0286.437 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8100 files added (on-disk size: 37139.4 KB)
+0286.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 127 (8134) files added so far); re-opening (prior size: 37139.4 KB)
+0288.769 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8200 files added (on-disk size: 37271.2 KB)
+0289.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 155 (8289) files added so far); re-opening (prior size: 37271.2 KB)
+0291.003 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8300 files added (on-disk size: 37417.5 KB)
+0293.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 46 (8335) files added so far); re-opening (prior size: 37417.5 KB)
+0295.601 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8400 files added (on-disk size: 37472.1 KB)
+0296.890 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8500 files added (on-disk size: 37472.1 KB)
+0297.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 166 (8501) files added so far); re-opening (prior size: 37472.1 KB)
+0299.369 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8600 files added (on-disk size: 37693.3 KB)
+0300.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 153 (8654) files added so far); re-opening (prior size: 37693.3 KB)
+0303.259 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8700 files added (on-disk size: 37865.1 KB)
+0305.281 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 73 (8727) files added so far); re-opening (prior size: 37865.1 KB)
+0307.009 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8800 files added (on-disk size: 38108.1 KB)
+0308.977 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 8900 files added (on-disk size: 38108.1 KB)
+0309.210 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.8 MB, 174 (8901) files added so far); re-opening (prior size: 38108.1 KB)
+0313.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 40 (8941) files added so far); re-opening (prior size: 39744.1 KB)
+0316.018 (0) The time we have been running (315.6) is approaching the resumption interval (345) - increasing resumption interval to 346
+0318.477 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9000 files added (on-disk size: 39979.7 KB)
+0318.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 68 (9009) files added so far); re-opening (prior size: 39979.7 KB)
+0321.211 (0) The time we have been running (320.7) is approaching the resumption interval (346) - increasing resumption interval to 351
+0324.055 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 7 (9016) files added so far); re-opening (prior size: 40290 KB)
+0326.886 (0) The time we have been running (325.4) is approaching the resumption interval (351) - increasing resumption interval to 356
+0328.550 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9100 files added (on-disk size: 40308.6 KB)
+0329.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 120 (9136) files added so far); re-opening (prior size: 40308.6 KB)
+0331.814 (0) The time we have been running (330.9) is approaching the resumption interval (356) - increasing resumption interval to 361
+0334.328 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9200 files added (on-disk size: 40487.8 KB)
+0335.001 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 90 (9226) files added so far); re-opening (prior size: 40487.8 KB)
+0337.664 (0) The time we have been running (336.2) is approaching the resumption interval (361) - increasing resumption interval to 367
+0341.060 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9300 files added (on-disk size: 40585.4 KB)
+0342.040 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 100 (9326) files added so far); re-opening (prior size: 40585.4 KB)
+0344.105 (0) The time we have been running (343.1) is approaching the resumption interval (367) - increasing resumption interval to 374
+0345.853 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9400 files added (on-disk size: 40692.1 KB)
+0347.000 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 125 (9451) files added so far); re-opening (prior size: 40692.1 KB)
+0348.283 (0) The time we have been running (347.9) is approaching the resumption interval (374) - increasing resumption interval to 378
+0350.743 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9500 files added (on-disk size: 40853.9 KB)
+0351.002 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 53 (9504) files added so far); re-opening (prior size: 40853.9 KB)
+0355.695 (0) The time we have been running (353.4) is approaching the resumption interval (378) - increasing resumption interval to 384
+0358.620 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9600 files added (on-disk size: 40932.4 KB)
+0358.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 105 (9609) files added so far); re-opening (prior size: 40932.4 KB)
+0360.446 (0) The time we have been running (359.7) is approaching the resumption interval (384) - increasing resumption interval to 390
+0362.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 35 (9644) files added so far); re-opening (prior size: 41586.6 KB)
+0365.357 (0) The time we have been running (363.7) is approaching the resumption interval (390) - increasing resumption interval to 394
+0368.530 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9700 files added (on-disk size: 41705.7 KB)
+0368.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 74 (9718) files added so far); re-opening (prior size: 41705.7 KB)
+0371.670 (0) The time we have been running (369.7) is approaching the resumption interval (394) - increasing resumption interval to 400
+0376.013 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 68 (9786) files added so far); re-opening (prior size: 41831.1 KB)
+0377.140 (0) The time we have been running (376.8) is approaching the resumption interval (400) - increasing resumption interval to 407
+0378.265 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9800 files added (on-disk size: 41952 KB)
+0379.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 44 (9830) files added so far); re-opening (prior size: 41952 KB)
+0381.031 (0) The time we have been running (380.7) is approaching the resumption interval (407) - increasing resumption interval to 411
+0383.995 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 50 (9880) files added so far); re-opening (prior size: 41999.6 KB)
+0387.577 (0) The time we have been running (386.2) is approaching the resumption interval (411) - increasing resumption interval to 417
+0388.962 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 9900 files added (on-disk size: 42079.8 KB)
+0391.018 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 98 (9978) files added so far); re-opening (prior size: 42079.8 KB)
+0392.287 (0) The time we have been running (391.8) is approaching the resumption interval (417) - increasing resumption interval to 422
+0395.560 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10000 files added (on-disk size: 42234.4 KB)
+0395.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 35 (10013) files added so far); re-opening (prior size: 42234.4 KB)
+0397.769 (0) The time we have been running (396.7) is approaching the resumption interval (422) - increasing resumption interval to 427
+0400.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 79 (10092) files added so far); re-opening (prior size: 42284.2 KB)
+0402.505 (0) The time we have been running (402.1) is approaching the resumption interval (427) - increasing resumption interval to 433
+0403.187 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10100 files added (on-disk size: 42447.4 KB)
+0404.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 41 (10133) files added so far); re-opening (prior size: 42447.4 KB)
+0408.955 (0) The time we have been running (406.9) is approaching the resumption interval (433) - increasing resumption interval to 437
+0412.021 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 57 (10190) files added so far); re-opening (prior size: 42580.6 KB)
+0414.986 (0) The time we have been running (413.6) is approaching the resumption interval (437) - increasing resumption interval to 444
+0417.448 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10200 files added (on-disk size: 42725.7 KB)
+0417.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 22 (10212) files added so far); re-opening (prior size: 42725.7 KB)
+0419.832 (0) The time we have been running (418.8) is approaching the resumption interval (444) - increasing resumption interval to 449
+0423.014 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 76 (10288) files added so far); re-opening (prior size: 42777.9 KB)
+0424.921 (0) The time we have been running (423.9) is approaching the resumption interval (449) - increasing resumption interval to 454
+0426.677 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10300 files added (on-disk size: 42962.9 KB)
+0427.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 41 (10329) files added so far); re-opening (prior size: 42962.9 KB)
+0429.797 (0) The time we have been running (428.8) is approaching the resumption interval (454) - increasing resumption interval to 459
+0433.018 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 62 (10391) files added so far); re-opening (prior size: 43792.7 KB)
+0434.221 (0) The time we have been running (433.9) is approaching the resumption interval (459) - increasing resumption interval to 464
+0435.686 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10400 files added (on-disk size: 45339.7 KB)
+0436.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 75 (10466) files added so far); re-opening (prior size: 45339.7 KB)
+0438.401 (0) The time we have been running (438) is approaching the resumption interval (464) - increasing resumption interval to 468
+0440.375 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10500 files added (on-disk size: 45729.6 KB)
+0441.995 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 131 (10597) files added so far); re-opening (prior size: 45729.6 KB)
+0446.017 (0) The time we have been running (443) is approaching the resumption interval (468) - increasing resumption interval to 473
+0448.375 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-plugins.zip.tmp: 10600 files added (on-disk size: 46257.7 KB)
+0451.040 (0) The time we have been running (449.7) is approaching the resumption interval (473) - increasing resumption interval to 480
+0453.899 (0) Created plugins zip (0) - 46299.5 KB in 449.9 s (102.9 KB/s) (sha1: 28c15c350f04938054bc483f68880960434fba17, sha256: 7e8bc91bee29f015c8bfde062c5038b14d40db0680b5c000bc6d4ea41636677b)
+0454.233 (0) Beginning creation of dump of themes (split every: 400 MB)
+0459.202 (0) Total entities for the zip file: 345 directories, 2236 files (0 skipped as non-modified), 23.9 MB
+0459.346 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0460.005 (0) The time we have been running (459.6) is approaching the resumption interval (480) - increasing resumption interval to 490
+0462.153 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 100 files added (on-disk size: 55.1 KB)
+0463.012 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 119 (120) files added so far); re-opening (prior size: 55.1 KB)
+0464.047 (0) The time we have been running (463.4) is approaching the resumption interval (490) - increasing resumption interval to 494
+0465.915 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 200 files added (on-disk size: 599.1 KB)
+0466.991 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 131 (251) files added so far); re-opening (prior size: 599.1 KB)
+0467.713 (0) The time we have been running (467.3) is approaching the resumption interval (494) - increasing resumption interval to 498
+0469.075 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 300 files added (on-disk size: 933 KB)
+0470.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 143 (394) files added so far); re-opening (prior size: 933 KB)
+0471.893 (0) The time we have been running (471.3) is approaching the resumption interval (498) - increasing resumption interval to 502
+0472.384 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 400 files added (on-disk size: 1385.1 KB)
+0474.011 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 500 files added (on-disk size: 1385.1 KB)
+0474.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 148 (542) files added so far); re-opening (prior size: 1385.1 KB)
+0475.700 (0) The time we have been running (475.4) is approaching the resumption interval (502) - increasing resumption interval to 506
+0476.982 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 600 files added (on-disk size: 1788.1 KB)
+0477.997 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 109 (651) files added so far); re-opening (prior size: 1788.1 KB)
+0478.571 (0) The time we have been running (478.3) is approaching the resumption interval (506) - increasing resumption interval to 509
+0479.644 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 700 files added (on-disk size: 2118.1 KB)
+0480.446 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 800 files added (on-disk size: 2118.1 KB)
+0480.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 217 (868) files added so far); re-opening (prior size: 2118.1 KB)
+0481.647 (0) The time we have been running (481.3) is approaching the resumption interval (509) - increasing resumption interval to 512
+0482.147 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 900 files added (on-disk size: 3274.4 KB)
+0483.422 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1000 files added (on-disk size: 3274.4 KB)
+0483.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 152 (1020) files added so far); re-opening (prior size: 3274.4 KB)
+0484.634 (0) The time we have been running (484.2) is approaching the resumption interval (512) - increasing resumption interval to 515
+0486.774 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1100 files added (on-disk size: 3638.9 KB)
+0486.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 83 (1103) files added so far); re-opening (prior size: 3638.9 KB)
+0488.068 (0) The time we have been running (487.2) is approaching the resumption interval (515) - increasing resumption interval to 518
+0490.999 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 83 (1186) files added so far); re-opening (prior size: 3699.8 KB)
+0491.642 (0) The time we have been running (491.3) is approaching the resumption interval (518) - increasing resumption interval to 522
+0492.805 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1200 files added (on-disk size: 3898.8 KB)
+0494.762 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1300 files added (on-disk size: 3898.8 KB)
+0494.999 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 119 (1305) files added so far); re-opening (prior size: 3898.8 KB)
+0495.745 (0) The time we have been running (495.3) is approaching the resumption interval (522) - increasing resumption interval to 526
+0497.505 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1400 files added (on-disk size: 4088.8 KB)
+0498.568 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1500 files added (on-disk size: 4088.8 KB)
+0498.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 210 (1515) files added so far); re-opening (prior size: 4088.8 KB)
+0499.768 (0) The time we have been running (499.4) is approaching the resumption interval (526) - increasing resumption interval to 530
+0501.664 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1600 files added (on-disk size: 5099.1 KB)
+0501.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 92 (1607) files added so far); re-opening (prior size: 5099.1 KB)
+0502.657 (0) The time we have been running (502.3) is approaching the resumption interval (530) - increasing resumption interval to 533
+0504.701 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1700 files added (on-disk size: 5285.8 KB)
+0505.016 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 97 (1704) files added so far); re-opening (prior size: 5285.8 KB)
+0506.064 (0) The time we have been running (505.4) is approaching the resumption interval (533) - increasing resumption interval to 536
+0508.185 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1800 files added (on-disk size: 5367 KB)
+0508.983 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.7 MB, 128 (1832) files added so far); re-opening (prior size: 5367 KB)
+0510.598 (0) The time we have been running (509.9) is approaching the resumption interval (536) - increasing resumption interval to 540
+0511.791 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 1900 files added (on-disk size: 8272.7 KB)
+0512.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 114 (1946) files added so far); re-opening (prior size: 8272.7 KB)
+0513.554 (0) The time we have been running (513.2) is approaching the resumption interval (540) - increasing resumption interval to 544
+0514.875 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 2000 files added (on-disk size: 8481.8 KB)
+0515.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 127 (2073) files added so far); re-opening (prior size: 8481.8 KB)
+0516.968 (0) The time we have been running (516.4) is approaching the resumption interval (544) - increasing resumption interval to 547
+0517.680 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 2100 files added (on-disk size: 9290.8 KB)
+0519.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 126 (2199) files added so far); re-opening (prior size: 9290.8 KB)
+0521.346 (0) The time we have been running (520.5) is approaching the resumption interval (547) - increasing resumption interval to 551
+0521.657 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-themes.zip.tmp: 2200 files added (on-disk size: 11051 KB)
+0523.179 (0) The time we have been running (522.9) is approaching the resumption interval (551) - increasing resumption interval to 553
+0524.026 (0) Created themes zip (0) - 11349.7 KB in 69.7 s (162.8 KB/s) (sha1: dd145223271038edeeb422653616b3f615bd7d2c, sha256: 4253edc919432bf9191c2da5c9c07c0ab9acf451af60a1a6388cba30e49525bd)
+0524.224 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0524.298 (0) Looking for candidates to backup in: C:\Bitnami\wordpress-5.5.1-1\apps\wordpress\htdocs/wp-content/uploads
+0524.435 (0) finding files: 2014: adding to list (1)
+0524.590 (0) finding files: 2016: adding to list (2)
+0524.668 (0) finding files: 2020: adding to list (3)
+0524.758 (0) finding files: elementor: adding to list (4)
+0524.879 (0) finding files: useanyfont: adding to list (5)
+0525.024 (0) finding files: wc-logs: adding to list (6)
+0525.158 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (7)
+0525.268 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (8)
+0525.409 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (9)
+0525.538 (0) finding files: woocommerce-placeholder-160x160.png: adding to list (10)
+0525.624 (0) finding files: woocommerce-placeholder-230x350.png: adding to list (11)
+0525.720 (0) finding files: woocommerce-placeholder-247x296.png: adding to list (12)
+0525.824 (0) finding files: woocommerce-placeholder-247x376.png: adding to list (13)
+0525.969 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (14)
+0526.065 (0) finding files: woocommerce-placeholder-510x510.png: adding to list (15)
+0526.209 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+0526.346 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (17)
+0526.480 (0) finding files: woocommerce-placeholder.png: adding to list (18)
+0526.568 (0) finding files: woocommerce_uploads: adding to list (19)
+0526.724 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0528.353 (0) Total entities for the zip file: 11 directories, 540 files (0 skipped as non-modified), 92.6 MB
+0528.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 15 (15) files added so far); re-opening (prior size: 0 KB)
+0529.594 (0) The time we have been running (529.1) is approaching the resumption interval (553) - increasing resumption interval to 560
+0532.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 64 (79) files added so far); re-opening (prior size: 830.1 KB)
+0533.754 (0) The time we have been running (533.4) is approaching the resumption interval (560) - increasing resumption interval to 564
+0535.621 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-uploads.zip.tmp: 100 files added (on-disk size: 3306.1 KB)
+0537.030 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 34 (113) files added so far); re-opening (prior size: 3306.1 KB)
+0538.376 (0) The time we have been running (537.8) is approaching the resumption interval (564) - increasing resumption interval to 568
+0541.129 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 43 (156) files added so far); re-opening (prior size: 5635.8 KB)
+0542.728 (0) The time we have been running (541.9) is approaching the resumption interval (568) - increasing resumption interval to 572
+0545.178 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-uploads.zip.tmp: 200 files added (on-disk size: 8999.8 KB)
+0545.623 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 540 files batched, 56 (212) added so far); re-opening (prior size: 8999.8 KB)
+0547.280 (0) The time we have been running (547) is approaching the resumption interval (572) - increasing resumption interval to 578
+0548.369 (0) A useful amount of data was added after this amount of zip processing: 5.4 s (normalised: 5.3 s, rate: 4785.4 KB/s)
+0549.039 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.3877120018005, normalised_time=5.3496124611792, max_time=548.84905314445, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0550.024 (0) The time we have been running (549.2) is approaching the resumption interval (578) - increasing resumption interval to 580
+0552.807 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-uploads.zip.tmp: 300 files added (on-disk size: 34790.2 KB)
+0553.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16 MB, 89 (301) files added so far); re-opening (prior size: 34790.2 KB)
+0554.827 (0) The time we have been running (554.4) is approaching the resumption interval (580) - increasing resumption interval to 585
+0557.989 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.6 MB, 59 (360) files added so far); re-opening (prior size: 51170.3 KB)
+0560.462 (0) The time we have been running (560.1) is approaching the resumption interval (585) - increasing resumption interval to 591
+0560.718 (0) The scheduled resumption is within 45 seconds - will reschedule
+0561.003 (0) Rescheduling resumption 1: moving to 636 seconds from now (1603094173)
+0561.362 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 591 + 45 = 636
+0562.714 (0) Zip: backup_2020-10-19-0736_Khamphataynguyen_727f25706315-uploads.zip.tmp: 400 files added (on-disk size: 58956.7 KB)
+0564.036 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.7 MB, 68 (428) files added so far); re-opening (prior size: 58956.7 KB)
+0569.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (18.5 MB, 55 (483) files added so far); re-opening (prior size: 70975.2 KB)
+0572.280 (0) User request for abort: backup job will be immediately halted
+0572.724 (0) Decremented the semaphore (fd) by 1
+0573.270 (0) Semaphore (fd) unlocked
+0573.648 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0574.261 (0) No email will/can be sent - the user has not configured an email address.
+0574.467 (0) Các sao lưu đã bị hủy bỏ bởi người sử dụng
